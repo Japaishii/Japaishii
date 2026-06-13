@@ -2,7 +2,7 @@
 
 I'm a Software Developer and Technology Enthusiast focused on Artificial Intelligence, Robotics, Automation, and Scalable Systems.
 
-Currently, I develop solutions that combine software, hardware, and AI to solve real-world problems. My main project is AgrooCare, an autonomous agricultural robot designed to help farmers monitor crops, detect diseases, and optimize field operations.
+Currently, I develop solutions that combine software, hardware, and AI to solve real-world problems.
 
 ## 🚀 What I'm Building
 
